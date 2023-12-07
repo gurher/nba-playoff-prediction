@@ -1,5 +1,5 @@
-# English Premier League Top 4 Prediction
+# NBA Playoffs Prediction
 <p align="center">
-    <img src="imgs/epl_logo.png" width="50%" height="50%">
+    <img src="imgs/nba_playoffs.png" width="50%" height="50%">
 </p>
 
