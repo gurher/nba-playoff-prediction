@@ -8,8 +8,10 @@ In the dynamic realm of professional basketball, the pursuit of playoff contenti
 
 
 ## Dataset
-**Source:** Data is gathered from https://www.basketball-reference.com/
-**Period:** From 1984 to 2020
+**Source:** Data is gathered from https://www.basketball-reference.com/ 
+
+**Period:** From 1984 to 2020 
+
 **Features:** Total 23 columns and 566 rows  
 
 
